@@ -1,19 +1,20 @@
-<!-- BANNER CON GRADIENTE PROFESIONAL -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,32&height=220&section=header&text=¡Hola!%20Soy%20Karina%20Romero%20✨&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,24,30&height=220&section=header&text=¡Hola!%20Soy%20Karina%20Romero%20✨&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
-<!-- HEADER CON GIF TÉCNICO Y TEXTO DINÁMICO -->
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5pdmVyc2U3LmdpZg/L1R1tvI9ebfiw/giphy.gif" width="500px" alt="Coding GIF" />
   
   <br/><br/>
 
-  <!-- PRESENTACIÓN DINÁMICA -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=550&lines=Data+Analyst+%26+AI+Enthusiast;Transformando+datos+en+decisiones;Especialista+en+Python+%26+Business+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=680&lines=Data+Analyst+%26+AI+Enthusiast;Transformando+datos+en+decisiones;Especialista+en+Python+%26+Business+Intelligence" alt="Typing SVG" />
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andrem22/andrem22/main/assets/line-pink.gif" width="100%" />
+</div>
 
 ### 💼 Perfil Profesional
 
@@ -38,31 +39,17 @@
 
 ---
 
-### 📈 Métricas y Actividad en GitHub
+### 📊 Métricas en GitHub (Tema Radical Pink)
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=karinaromerovasquez&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinaromerovasquez&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=karinaromerovasquez&show_icons=true&theme=radical&title_color=f72585&text_color=ffffff&bg_color=0f111a&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinaromerovasquez&layout=compact&theme=radical&title_color=f72585&text_color=ffffff&bg_color=0f111a&hide_border=true" />
 </div>
 
 ---
 
-<!-- DIVISOR ESTILIZADO -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andrem22/andrem22/main/assets/line-pink.gif" width="100%" />
 </div>
-
-<!--
-**karinaromerovasquez/karinaromerovasquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
